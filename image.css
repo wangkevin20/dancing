@@ -1,0 +1,39 @@
+body {
+  background-color: #6495ED
+}
+
+
+
+.btn {
+
+  text-align: center;
+  border: none;
+  background-color: inherit;
+  padding: 100px 100px;
+  font-size: 40px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Green */
+.success {
+  color: #00008B;
+}
+
+.success:hover {
+  background-color: #4169E1;
+  color: white;
+}
+
+.default:hover {
+    background: #e7e7e7;
+}
+
+
+.vertical-center {
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
