@@ -17,11 +17,11 @@ body {
 
 
 .success {
-  color: #00008B;
+  color: white;
 }
 
 .success:hover {
-  background-color: #4169E1;
+  background-color: #00008B;
   color: white;
 }
 
