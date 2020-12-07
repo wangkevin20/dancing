@@ -15,7 +15,7 @@ body {
   display: inline-block;
 }
 
-/* Green */
+
 .success {
   color: #00008B;
 }
@@ -25,9 +25,7 @@ body {
   color: white;
 }
 
-.default:hover {
-    background: #e7e7e7;
-}
+
 
 
 .vertical-center {
@@ -35,5 +33,5 @@ body {
    position: absolute;
    top: 50%;
    left: 50%;
-   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
    transform: translate(-50%, -50%);
